@@ -1,0 +1,23 @@
+# ---- R / RStudio ----
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# ---- Shiny deployment ----
+rsconnect/
+
+# ---- SAS datasets, catalogs, locks and logs ----
+*.sas7bdat
+*.sas7bcat
+*.lck
+*.log
+
+# ---- Excel lock files ----
+~$*
+
+# ---- Mac ----
+.DS_Store
+
+# ---- Private course material (never upload) ----
+reference/
