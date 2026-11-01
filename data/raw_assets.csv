@@ -1,0 +1,30 @@
+asset_id,asset_class,description,issuer_type,face_value,coupon_rate,years_to_maturity,bond_yield,market_value
+1,Bond,Provincial bond,Provincial,2400000,0.025,8,0.039,2172842.72
+2,Bond,Corporate bond,Corporate,1800000,0.03,15,0.047,1475842.51
+3,Bond,Federal bond,Federal,1200000,0.035,7,0.035,1200000
+4,Bond,Provincial bond,Provincial,600000,0.04,14,0.039,606379.92
+5,Bond,Corporate bond,Corporate,2400000,0.02,6,0.047,2067915.94
+6,Bond,Federal bond,Federal,1800000,0.025,13,0.035,1614550.71
+7,Bond,Provincial bond,Provincial,1200000,0.03,5,0.039,1151784.95
+8,Bond,Corporate bond,Corporate,600000,0.035,12,0.047,535090.98
+9,Bond,Federal bond,Federal,2400000,0.04,4,0.035,2444076.95
+10,Bond,Provincial bond,Provincial,1800000,0.02,11,0.039,1498769.3
+11,Bond,Corporate bond,Corporate,1200000,0.025,3,0.047,1127700.19
+12,Bond,Federal bond,Federal,600000,0.03,10,0.035,575050.18
+13,Bond,Provincial bond,Provincial,2400000,0.035,2,0.039,2381867.51
+14,Bond,Corporate bond,Corporate,1800000,0.04,9,0.047,1709232.78
+15,Bond,Federal bond,Federal,1200000,0.02,1,0.035,1182608.7
+16,Bond,Provincial bond,Provincial,600000,0.025,8,0.039,543210.68
+17,Bond,Corporate bond,Corporate,2400000,0.03,15,0.047,1967790.01
+18,Bond,Federal bond,Federal,1800000,0.035,7,0.035,1800000
+19,Bond,Provincial bond,Provincial,1200000,0.04,14,0.039,1212759.84
+20,Bond,Corporate bond,Corporate,600000,0.02,6,0.047,516978.99
+21,Bond,Federal bond,Federal,2400000,0.025,13,0.035,2152734.28
+22,Bond,Provincial bond,Provincial,1800000,0.03,5,0.039,1727677.43
+23,Bond,Corporate bond,Corporate,1200000,0.035,12,0.047,1070181.95
+24,Bond,Federal bond,Federal,600000,0.04,4,0.035,611019.24
+25,Bond,Provincial bond,Provincial,2400000,0.02,11,0.039,1998359.06
+26,Equity,Canadian equity fund,,,,,,2500000
+27,Equity,US equity fund,,,,,,2000000
+28,Equity,International equity fund,,,,,,1500000
+29,Cash,Cash and short-term deposits,,,,,,1500000

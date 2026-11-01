@@ -1,0 +1,10 @@
+section,item,amount
+Assets,Bonds,"35,344,424.82"
+Assets,Equities,"6,000,000.00"
+Assets,Cash,"1,500,000.00"
+Assets,Total assets,"42,844,424.82"
+Liabilities,Unearned premium,"13,828,133.37"
+Liabilities,Unpaid claims: case reserves,"13,997,175.00"
+Liabilities,Unpaid claims: IBNR provision,"2,099,576.25"
+Liabilities,Total liabilities,"29,924,884.62"
+Capital,Capital available,"12,919,540.20"
